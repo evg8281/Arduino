@@ -1,5 +1,5 @@
 # LiquidCrystalRus_I2C
-![](doc/helloworld.jpg)
+![Пример HelloWorld](doc/helloworld.jpg)
 
 - некая доработка библиотеки LCD_1602_RUS
 - отличается от оригинала тем, что заводится без танцев с бубном
